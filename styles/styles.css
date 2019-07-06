@@ -1,8 +1,16 @@
+
 h1 {
+    margin: 0;
+    padding: 25px 0;    
+    text-shadow: 3px 3px 1px black;
     font-family: 'Russo One', sans-serif;
     color: white;
     text-align: center;
-    font-size: 50px
+    font-size: 65px;
+}
+#animation{
+    font-size: 65px;
+    
 }
 img[src]{
     display: block;
@@ -13,3 +21,10 @@ img[src]{
 html{
     background-color: rgb(252, 240, 79);
 }
+/* body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+} */
