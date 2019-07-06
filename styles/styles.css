@@ -1,0 +1,13 @@
+h1 {
+    font-family: 'Russo One', sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 50px
+}
+img[src]{
+    text-align: center;
+    width: 500px;
+}
+html{
+    background-color: rgb(252, 240, 79);
+}
