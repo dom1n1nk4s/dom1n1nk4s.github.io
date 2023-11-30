@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on myblog</title>
+    
+    
+    
+    <link>https://dom1n1nk4s.github.io/posts/</link>
+    <description>Recent content in Posts on myblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Nov 2023 11:38:18 +0200</lastBuildDate>
+    
+	<atom:link href="https://dom1n1nk4s.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Main</title>
+      <link>https://dom1n1nk4s.github.io/posts/main/</link>
+      <pubDate>Thu, 30 Nov 2023 11:38:18 +0200</pubDate>
+      
+      <guid>https://dom1n1nk4s.github.io/posts/main/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          qwerty asdf
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
